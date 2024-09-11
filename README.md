@@ -7,7 +7,7 @@ This repository presents a novel approach to DNA sequence comparison using quant
 2. [Usage](#usage)
 3. [Project Structure](#project-structure)
 4. [Contributing](#contributing)
-5. [License](#license)
+5. [License](LICENSE)
 
 ## Installation
 
