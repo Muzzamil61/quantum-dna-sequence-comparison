@@ -5,7 +5,7 @@ This repository presents a novel approach to DNA sequence comparison using quant
 ## Table of Contents
 1. [Installation](requirements.txt)
 2. [Usage](#usage)
-3. [Project Structure](#project-structure)
+3. [Project Structure](notebooks/dna_sequence_comparison_analysis.ipynb)
 4. [Contributing](#contributing)
 5. [License](LICENSE)
 
