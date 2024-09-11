@@ -4,7 +4,7 @@ This repository contains a quantum computing approach to DNA sequence comparison
 
 ## Table of Contents
 1. [Installation](requirements.txt)
-2. [Usage](#usage)
+2. [Usage](USAGE.md)
 3. [Project Structure](project_structure.txt)
 4. [Contributing](CONTRIBUTING.md)
 5. [License](LICENSE)
