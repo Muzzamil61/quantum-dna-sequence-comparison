@@ -5,7 +5,7 @@ This repository contains a quantum computing approach to DNA sequence comparison
 ## Table of Contents
 1. [Installation](requirements.txt)
 2. [Usage](#usage)
-3. [Project Structure](notebooks/dna_sequence_comparison_analysis.ipynb)
+3. [Project Structure](project_structure.txt)
 4. [Contributing](#contributing)
 5. [License](LICENSE)
 
