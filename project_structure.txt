@@ -1,0 +1,44 @@
+quantum-dna-sequence-comparison/
+│
+├── README.md                   # Project description and setup instructions
+├── LICENSE                     # License file (MIT License)
+├── requirements.txt            # Required Python packages and libraries
+├── src/                        # Source code for DNA sequence comparisons
+│   ├── main.py # Entire DNA sequence comparison process
+│   ├── dna_encoding.py # Encoding DNA sequences into quantum states
+│   ├── dna_circuits.py # Create DNA quantum circuits and compare them
+│   ├── similarity_comparison.py # Executing circuits and extracting results
+│   ├── yeast_vs_reference_circuit.py   # Yeast vs Reference DNA comparison
+│   ├── protozoan_vs_reference_circuit.py # Protozoan vs Reference DNA comparison
+│   ├── bacterial_vs_reference_circuit.py # Bacterial vs Reference DNA comparison
+│   └── visualization.py                # Plotting results and visualizing quantum circuits
+│
+├── notebooks/                  # Jupyter Notebooks for analysis and visualization
+│   ├── dna_sequence_comparison_analysis.ipynb   # Exploratory data analysis and results
+│
+├── data/                       # Sample data for DNA sequences
+│   └── sample_sequences/       # Directory containing sample sequences
+│       ├── yeast_sequence.txt  # Yeast DNA sequence
+│       ├── protozoan_sequence.txt # Protozoan DNA sequence
+│       ├── bacterial_sequence.txt # Bacterial DNA sequence
+│       └── reference_sequence.txt # Reference DNA sequence
+│
+├── results/                    # Directory to store output results
+│   ├── similarity_scores-1_ibm_sherbrooke.png # Histogram similarity plot
+│   ├── similarity_scores-2_ibm_sherbrooke.png # Histogram similarity plot
+│   ├── similarity_scores-3_ibm_sherbrooke.png # Histogram similarity plot
+│   └── similarity_scores-4_ibm_sherbrooke.png # Histogram similarity plot
+│   └── similarity_scores-5_ibm_sherbrooke.png # Histogram similarity plot
+│   └── similarity_scores-6_ibm_sherbrooke.png # Histogram similarity plot
+│
+├── figures/                    # Directory for quantum circuit diagrams
+│   ├── YEAST DNA Sequence Quantum Circuit.png # Yeast quantum circuit diagram
+│   ├── YEAST vs REFERENCE Comparison Quantum Circuit.png # Yeast comparison quantum circuit diagram
+│   ├── BACTERIAL DNA Sequence Quantum Circuit.png # Bacterial quantum circuit diagram
+│   ├── BACTERIAL vs REFERENCE Comparison Quantum Circuit.png # Bacterial comparison quantum circuit diagram
+│   ├── PROTOZOAN DNA Sequence Quantum Circuit.png # Protozoan quantum circuit diagram
+│   ├── PROTOZOAN vs REFERENCE Comparison Quantum Circuit.png # Protozoan comparison quantum circuit diagram
+│   └── REFERENCE DNA Sequence Quantum Circuit.png # Reference quantum circuit diagram
+│
+└── docs/                       # Documentation and research materials
+    └── research_paper.pdf      # Research paper on quantum DNA sequence comparison
