@@ -1,6 +1,6 @@
-# Quantum DNA Sequence Comparison
+## Quantum DNA Sequence Comparison
 
-This repository presents a novel approach to DNA sequence comparison using quantum computing. The methodology leverages quantum superposition and entanglement to perform fast and scalable DNA sequence comparisons, potentially revolutionizing the fields of bioinformatics and genetic diagnostics.
+This repository contains a quantum computing approach to DNA sequence comparison using Qiskit and IBM Quantum hardware. The project leverages quantum algorithms to perform fast and accurate DNA sequence comparisons, potentially revolutionizing fields like bioinformatics and genetic diagnostics.
 
 ## Table of Contents
 1. [Installation](requirements.txt)
@@ -11,7 +11,9 @@ This repository presents a novel approach to DNA sequence comparison using quant
 
 ## Installation
 
-To install the necessary dependencies, run:
+To get started, clone the repository and install the required dependencies:
 
 ```bash
+git clone https://github.com/yourusername/quantum-dna-sequence-comparison.git
+cd quantum-dna-sequence-comparison
 pip install -r requirements.txt
